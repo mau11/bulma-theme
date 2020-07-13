@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f82507be-62e0-4a55-9013-64862b2f878f/deploy-status)](https://app.netlify.com/sites/bulma-theme/deploys)
+
 # bulma-theme - a workspace for Bulma theme generation
 
 ## What this is
